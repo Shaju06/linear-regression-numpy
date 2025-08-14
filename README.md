@@ -11,5 +11,5 @@ This project implements simple linear regression using NumPy without any ML libr
 ## Run
 
 ```bash
-python linear_regression.py
+python3 linear_regression.py
 ```
